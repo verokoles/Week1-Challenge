@@ -22,9 +22,9 @@ Incorrect Format of the CSS and browser view:
 
 Corrected Format of the CSS and browser view: 
 ```md
-![correct CSS](assets/images/CSS-correct.png)
+![correct CSS](../images/CSS-correct.png)
 ```md
-![correct web view](assets/images/website-correct.png)
+![correct web view](../images/website-correct.png)
 
 
 It turns out that not only the function, but the layout of words on a web page determines its quality, and can either attract or repel a visitor. 
