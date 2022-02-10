@@ -1,7 +1,9 @@
 # HTML CSS Git Challenge: Code Refactor
 
+## Purpose 
 This week's challenge brought an opportunity to refactor, or reorganize, the way a stylesheet affects the functions and apparence of a website. Simplifying navigation for users makes a world of a difference!
 
+## Built With
 The main players in this assignment were CSS and of course, HTML.
 
 Simple changes like adding the name of the site, Horiseon, to the <title> element can help viewers easily see the specific page because the tab is labeled. I learned the importance of making sure the div tags and classes in the HTML line up with the names of classes in the CSS, which leads to effective functioning when a user clicks on a certain element. 
@@ -14,15 +16,15 @@ I learned that just labeling parts of the stylesheet incorrectly will fail to pr
 
 Incorrect Format of the CSS and browser view:
 ```md
-![incorrect CSS](assets\images\CSS-incorrect.png)
+![incorrect CSS](../images/CSS-incorrect.png)
 ```md
-![incorrect web view](assets\images\website-incorrect.png)
+![incorrect web view](../images/website-incorrect.png)
 
 Corrected Format of the CSS and browser view: 
 ```md
-![correct CSS](assets\images\CSS-correct.png)
+![correct CSS](assets/images/CSS-correct.png)
 ```md
-![correct web view](assets\images\website-correct.png)
+![correct web view](assets/images/website-correct.png)
 
 
 It turns out that not only the function, but the layout of words on a web page determines its quality, and can either attract or repel a visitor. 
