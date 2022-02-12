@@ -18,15 +18,15 @@ I learned that just labeling parts of the stylesheet incorrectly will fail to pr
 
 Incorrect Format of the CSS and browser view:
   
-[incorrect CSS](assets/images/CSS-incorrect.png)
+![incorrect CSS](assets/images/CSS-incorrect.png)
   
-[incorrect web view](assets/images/website-incorrect.png)
+![incorrect web view](assets/images/website-incorrect.png)
 
 Corrected Format of the CSS and browser view: 
 
-[correct CSS](assets/images/CSS-correct.png)
+![correct CSS](assets/images/CSS-correct.png)
 
-[correct web view](assets/images/website-correct.png)
+![correct web view](assets/images/website-correct.png)
 
 
 It turns out that not only the function, but the layout of words on a web page determines its quality, and can either attract or repel a visitor. 
